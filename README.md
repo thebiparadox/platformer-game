@@ -1,2 +1,1 @@
-# platformer-game
-Created a platformer game for Bad Website Club's bootcamp
+Created a platformer game for Bad Website Club's bootcamp using [freeCodeCamp's Javascript and Data Structures curriculum.](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-intermediate-oop-by-building-a-platformer-game/step-1)
